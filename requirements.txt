@@ -1,5 +1,5 @@
 Flask
 pyrebase4
 gunicorn
-python-opencv
+opencv-python
 scikit-learn
