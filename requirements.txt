@@ -4,3 +4,4 @@ gunicorn
 opencv-python
 scikit-learn
 werkzeug==0.16.1
+imutils
