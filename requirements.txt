@@ -1,0 +1,5 @@
+Flask
+pyrebase4
+gunicorn
+python-opencv
+scikit-learn
